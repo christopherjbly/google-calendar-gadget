@@ -1,0 +1,170 @@
+﻿<strings>
+  <GADGET_NAME>Google Calendar Beta</GADGET_NAME>
+  <GADGET_DESCRIPTION>Google Calendar on your desktop</GADGET_DESCRIPTION>
+  <GADGET_ABOUT_TEXT>Google Calendar Beta
+Copyright (c) 2008 Google Inc. All Rights Reserved.
+The next version of the popular calendar gadget. 
+Compact and stylish new interface and packed with more features.
+
+This is a Beta release and might contain bugs. If you find any please report 
+them to calendargadget-feedback@google.com or file and assign them to matrix.
+</GADGET_ABOUT_TEXT>
+  <GADGET_VERSION>3.0.0.0</GADGET_VERSION>
+
+  <!-- Text used in the login dialog -->
+  <SIGN_IN_TO_CALENDAR>Sign in to Calendar with</SIGN_IN_TO_CALENDAR>
+  <YOUR>your</YOUR>
+  <ACCOUNT>Account</ACCOUNT>
+  <USERNAME>Username</USERNAME>
+  <PASSWORD>Password</PASSWORD>
+  <REMEMBER_ME>Remember me</REMEMBER_ME>
+  <LOGIN>Sign in</LOGIN>
+  <NO_ACCOUNT>New to Google Calendar?
+It's easy to start.</NO_ACCOUNT>
+  <CREATE_ACCOUNT>Create an account</CREATE_ACCOUNT>
+  <OFFLINE>You need an internet connection to use this gadget</OFFLINE>
+
+  <!-- Text for the custom menu items -->
+  <MENU_VIEWS>Change view</MENU_VIEWS>
+  <CALENDAR_VIEW>Calendar</CALENDAR_VIEW>
+  <DAY_VIEW>Day view</DAY_VIEW>
+  <AGENDA_VIEW>Just agenda</AGENDA_VIEW>
+  <SIGN_OUT>Sign out</SIGN_OUT>
+  <MENU_24HOUR>Use 24 hour clock</MENU_24HOUR>
+  <MENU_WEEKSTART>Week starts on</MENU_WEEKSTART>
+  <REFRESH>Refresh</REFRESH>
+  <VISIT_CALENDAR>Go to Google Calendar online</VISIT_CALENDAR>
+
+  <!-- Text for the add event dialog. Example should match the one shown in 
+       the online Google calendar  -->
+  <ADD_EVENT>Add event</ADD_EVENT>
+  <ADD_EVENT_WHAT>What</ADD_EVENT_WHAT>
+  <ADD_EVENT_WHEN>When</ADD_EVENT_WHEN>
+  <ADD_EVENT_TO>to</ADD_EVENT_TO>
+  <ADD_EVENT_ALLDAY>All day</ADD_EVENT_ALLDAY>
+  <ADD_EVENT_WHERE>Where</ADD_EVENT_WHERE>
+  <ADD_EVENT_CALENDAR>Calendar</ADD_EVENT_CALENDAR>
+  <ADD_EVENT_DESCRIPTION>Description</ADD_EVENT_DESCRIPTION>
+  <ADD_EVENT_DATE_FORMAT>[![MONTH]!]/[![DAY]!]/[![YEAR]!]</ADD_EVENT_DATE_FORMAT>
+  <ADD_EVENT_DATE_FORMAT_REGEX>^[0-1]{0,1}[0-9]/[0-3]{0,1}[0-9]/(19|20)[0-9]{2}$</ADD_EVENT_DATE_FORMAT_REGEX>
+  <ADD_EVENT_SAVE>Save</ADD_EVENT_SAVE>
+  <ERROR_CREATE_EVENT>Could not create event. Please check your input and try again.</ERROR_CREATE_EVENT>
+
+  <!-- Error Messages for adding files -->
+  <ERROR_DATE_INVALID>Please enter your date in the form m/d/yyyy e.g. 9/8/2008</ERROR_DATE_INVALID>
+  <ERROR_TIME_INVALID>Please enter your time in the form hh:mm e.g. 15:00</ERROR_TIME_INVALID>
+  <ERROR_END_BEFORE_START>Your event cannot end before it started.</ERROR_END_BEFORE_START>
+
+  <QUICK_ADD_EVENT>Quick Add Event</QUICK_ADD_EVENT>
+  <QUICK_ADD_TITLE>Quick Add a new event.</QUICK_ADD_TITLE>
+  <QUICK_ADD_EXAMPLE>Example: Dinner with Michael 7pm tomorrow</QUICK_ADD_EXAMPLE>
+  <EMPTY_QUICKADD>Please enter your event using the form: </EMPTY_QUICKADD>
+
+  <!-- Week days in different lengts. Very short for calendar header, 
+       medium (3-letter) appreviation and full names -->
+  <DAY_MON_S>M</DAY_MON_S>
+  <DAY_TUE_S>Tu</DAY_TUE_S>
+  <DAY_WED_S>W</DAY_WED_S>
+  <DAY_THU_S>Th</DAY_THU_S>
+  <DAY_FRI_S>F</DAY_FRI_S>
+  <DAY_SAT_S>Sa</DAY_SAT_S>
+  <DAY_SUN_S>Su</DAY_SUN_S>
+
+  <DAY_MON_M>Mon</DAY_MON_M>
+  <DAY_TUE_M>Tue</DAY_TUE_M>
+  <DAY_WED_M>Wed</DAY_WED_M>
+  <DAY_THU_M>Thu</DAY_THU_M>
+  <DAY_FRI_M>Fri</DAY_FRI_M>
+  <DAY_SAT_M>Sat</DAY_SAT_M>
+  <DAY_SUN_M>Sun</DAY_SUN_M>
+
+  <DAY_MON>Monday</DAY_MON>
+  <DAY_TUE>Tuesday</DAY_TUE>
+  <DAY_WED>Wednesday</DAY_WED>
+  <DAY_THU>Thursday</DAY_THU>
+  <DAY_FRI>Friday</DAY_FRI>
+  <DAY_SAT>Saturday</DAY_SAT>
+  <DAY_SUN>Sunday</DAY_SUN>
+
+  <!-- Names of the Months. -->
+  <MONTH_JAN>January</MONTH_JAN>
+  <MONTH_FEB>February</MONTH_FEB>
+  <MONTH_MAR>March</MONTH_MAR>
+  <MONTH_APR>April</MONTH_APR>
+  <MONTH_MAY>May</MONTH_MAY>
+  <MONTH_JUN>June</MONTH_JUN>
+  <MONTH_JUL>July</MONTH_JUL>
+  <MONTH_AUG>August</MONTH_AUG>
+  <MONTH_SEP>September</MONTH_SEP>
+  <MONTH_OCT>October</MONTH_OCT>
+  <MONTH_NOV>November</MONTH_NOV>
+  <MONTH_DEC>December</MONTH_DEC>
+
+  <MONTH_JAN_S>Jan</MONTH_JAN_S>
+  <MONTH_FEB_S>Feb</MONTH_FEB_S>
+  <MONTH_MAR_S>Mar</MONTH_MAR_S>
+  <MONTH_APR_S>Apr</MONTH_APR_S>
+  <MONTH_MAY_S>May</MONTH_MAY_S>
+  <MONTH_JUN_S>Jun</MONTH_JUN_S>
+  <MONTH_JUL_S>Jul</MONTH_JUL_S>
+  <MONTH_AUG_S>Aug</MONTH_AUG_S>
+  <MONTH_SEP_S>Sep</MONTH_SEP_S>
+  <MONTH_OCT_S>Oct</MONTH_OCT_S>
+  <MONTH_NOV_S>Nov</MONTH_NOV_S>
+  <MONTH_DEC_S>Dec</MONTH_DEC_S>
+
+  <!-- Generic strings common to the calendar application -->
+  <TODAY>Today</TODAY>
+  <TOMORROW>Tomorrow</TOMORROW>
+
+  <!-- Texts used in the mini calendar, agenda and dayview -->
+  <MONTH_YEAR_HEADER>[![MONTH]!] [![YEAR]!]</MONTH_YEAR_HEADER>
+  <AGENDA_HEADER>[![WEEKDAY]!], [![MONTH]!] [![DAY]!]</AGENDA_HEADER>
+  <WEEK_HEADER>Showing weeks [![FIRST]!] to [![LAST]!]</WEEK_HEADER>
+  <NO_EVENTS>no events</NO_EVENTS>
+  <MORE_EVENTS>+[![COUNT]!] more events</MORE_EVENTS>
+  <MORE_EVENTS_TOOLTIP>Resize the gadget to show more events.</MORE_EVENTS_TOOLTIP>
+  <TOTAL_EVENTS>[![COUNT]!] events on this day</TOTAL_EVENTS>
+  <SPAWN_DAYS>([![TIME]!]) [![TITLE]!]</SPAWN_DAYS>
+  <AGENDA>Agenda</AGENDA>
+
+  <!-- Error Messages for authentication -->
+  <ERROR_BAD_AUTHENTICATION>Your username and password were incorrect. Please verify your credentials and try again.</ERROR_BAD_AUTHENTICATION>
+  <ERROR_NOT_VERIFIED>Your account has not been verified yet. You need to visit Google Calendar in your browser and verify your account before you can use this gadget.</ERROR_NOT_VERIFIED>
+  <ERROR_WEBLOGIN_REQUIRED>You need to agree to the terms of Google Calendar before you can use this gadget. Visit Google Calendar in your browser to do this.</ERROR_WEBLOGIN_REQUIRED>
+  <ERROR_UNKNOWN>An unknown error occured. Verify your input and try again.</ERROR_UNKNOWN>
+  <ERROR_ACCOUNT_DISABLED_OR_DELETED>You don't have access to Google Calendar. Please check your Google account and try again.</ERROR_ACCOUNT_DISABLED_OR_DELETED>
+  <ERROR_SERVICE_UNAVAILABLE>The service is currently not available. Please try again later.</ERROR_SERVICE_UNAVAILABLE>
+  <ERROR_EMPTY_FEED>Could not find your calendars!</ERROR_EMPTY_FEED>
+
+  <!-- Internal variables for script auto content -->
+  <MSG_NO_TITLE>(no title)</MSG_NO_TITLE>
+  <NEW_CALENDAR_TITLE>New Calendar</NEW_CALENDAR_TITLE>
+
+  <!-- Detailsview for event -->
+  <MAP>map</MAP>
+  <EVENT_DATE_TIME>[![WEEKDAY]!], [![MONTH]!] [![DAY]!] [![TIME]!]</EVENT_DATE_TIME>
+  <EVENT_ALLDAY>[![WEEKDAY]!], [![MONTH]!] [![DAY]!]</EVENT_ALLDAY>
+  <CREATED_BY>Created by [![NAME]!]</CREATED_BY>
+  <GOING>Going?</GOING>
+  <GOING_YES>Yes</GOING_YES>
+  <GOING_NO>No</GOING_NO>
+  <GOING_MAYBE>Maybe</GOING_MAYBE>
+  <GOING_WAITING>Awaiting response</GOING_WAITING>
+  <DESCRIPTION>Description</DESCRIPTION>
+  <NO_DESCRIPTION>(This event has no description)</NO_DESCRIPTION>
+  <GUESTS>Guests ([![COUNT]!])</GUESTS>
+  <GUEST_HEADER>[![ANSWER]!] ([![COUNT]!])</GUEST_HEADER>
+  <LINK_EDIT>Visit Google Calendar to modify this event.</LINK_EDIT>
+  <OPEN_MAP>Click to open the map in Google Maps</OPEN_MAP>
+  <GET_DIRECTIONS>Get directions</GET_DIRECTIONS>
+  <ERROR_RSVP_RESPONSE>Could not set your reponse for this event. Please try again later.</ERROR_RSVP_RESPONSE>
+
+  <!-- Options dialog -->
+  <OPTIONS_TITLE>Choose calendars</OPTIONS_TITLE>
+  <OPTIONS_CLOSE>Close options</OPTIONS_CLOSE>
+  <MY_CALENDARS>My calendars</MY_CALENDARS>
+  <OTHER_CALENDARS>Other calendars</OTHER_CALENDARS>
+  <OPTIONS_TOOLTIP>Choose the visible calendars for [![USERNAME]!]</OPTIONS_TOOLTIP>
+
+</strings>
