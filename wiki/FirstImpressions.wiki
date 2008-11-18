@@ -14,7 +14,7 @@ Here are a couple of things I noticed when I first installed the gadget. I will 
     * I like the choice of font, color, and shape.
     * The Calendar header, text, and dates seems larger than necessary. Given my meek 1400x900 resolution, the calendar+agenda take up about half of my sidebar.
     * It seems some non-All day events are indented a lot. Is this intended?
-    * I had to events at the same time and the second event did not list a time, but was instead indented even more. Is this intended?
+    * I had two events at the same time and the second event did not list a time, but was instead indented even more. Is this intended?
 
 2. Navigation
     * I would encourage you to include the up and down arrows present on the agenda view without calendar to the with calendar view
