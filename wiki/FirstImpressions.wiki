@@ -25,10 +25,12 @@ Here are a couple of things I noticed when I first installed the gadget. I will 
     * Is the calendar data available offline?
     * Does the gadget function both on Google Desktop and iGoogle?
     * Is this a read-only gadget? Can we not edit events from within the gadget?
+       * You can add, but not edit.
 
 4. Wish List
     * I found myself somewhat disappointed when I moved the gadget out of the sidebar. I had expected something similar to the expanded Canvas view gadget for iGoogle.
 
 -kmich
 
-  
+
+P.S. DLW edited this page and I cannot see a way to see what he changed (if anything). Is this a rollback history in Code like in Docs?
