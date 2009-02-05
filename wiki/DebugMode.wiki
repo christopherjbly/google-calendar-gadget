@@ -7,7 +7,7 @@ If you're having problems, please follow these instructions to help us diagnose 
   * Unzip that file to a directory (it's really just a zip file).
   * Within the directory, double-click or execute the gadget.gmanifest file.
 
-Running the gadget this way allows you to see error message dialogs. If you see an error dialog, please report the message here.
+Running the gadget this way allows you to see error message dialogs. If you see an error dialog, please [http://code.google.com/p/google-calendar-gadget/issues/list report an issue].
 
-Cheers,
+Cheers!
 James
