@@ -1,6 +1,6 @@
 #summary How to debug errors in the gadget
 
-= Instructions =
+= Debug Mode =
 
 If you're having problems, please follow these instructions to help us diagnose issues:
   * Download this file http://desktop.google.com/plugins/GoogleCalendar2.gg
@@ -10,4 +10,3 @@ If you're having problems, please follow these instructions to help us diagnose 
 Running the gadget this way allows you to see error message dialogs. If you see an error dialog, please [http://code.google.com/p/google-calendar-gadget/issues/list report an issue].
 
 Cheers!
-James
